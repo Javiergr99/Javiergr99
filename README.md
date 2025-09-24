@@ -5,7 +5,7 @@ Versión final optimizada con username real, LinkedIn, GitHub, proyectos con pre
 
 <!-- 🌌 BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8B5CF6,100:FF7A18&height=200&section=header&text=⚡%20Javier%20García%20Lucero%20⚡&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8B5CF6,100:FF7A18&height=200&section=header&text=⚡%20Javier%20García%20⚡&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="header"/>
 </p>
 
 <!-- Typing effect -->
